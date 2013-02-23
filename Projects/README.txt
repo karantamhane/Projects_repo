@@ -12,7 +12,7 @@ Description:
 
 Directory Structure:
 
-	Karan's Projects
+	Projects
 		|
 		 Caeser cipher
 		|
