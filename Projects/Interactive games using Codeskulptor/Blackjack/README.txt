@@ -13,7 +13,7 @@ Source code: blackjack.py
 Usage:
 	
 	Program must be run in a web browser.
-	Navigate to http://www.codeskulptor.org/#user7-WOwCBzNUBjpqYau.py
+	Navigate to http://www.codeskulptor.org/#user6-OlbbTlT8IeueJ57.py
 	Click the 'Run' button (or play button) at the top left corner of the page.
 
 	Use on-screen buttons to play game.
