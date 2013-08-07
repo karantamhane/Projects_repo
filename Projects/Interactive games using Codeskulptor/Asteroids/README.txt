@@ -13,7 +13,7 @@ Source code: asteroids.py
 Usage:
 
 	Program must be run in a web browser.
-	Navigate to http://www.codeskulptor.org/#user7-WOwCBzNUBjpqYau.py
+	Navigate to http://www.codeskulptor.org/#user17_WOwCBzNUBjpqYau_2.py
 	Click the 'Run' button (or play button) at the top left corner of the page.
 	
 	Use arrow keys to turn and accelerate ship and spacebar to shoot.
